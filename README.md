@@ -20,14 +20,12 @@
 
 ```yaml
 name: Torika
-role: Developer & Systems Tinkerer
+role: Developer
 focus:
-  - Networking (OSPF, Cisco Packet Tracer, GNS3)
   - Database Systems (MySQL, MongoDB, Oracle)
-  - Web & Mobile Development (Flask, Flutter)
+  - Desktop App & Mobile Development (Java, Flutter)
   - Linux Systems & Dual-Boot Sorcery
 currently_building:
-  - "NexusGames — Flask-based game store"
   - "Flutter music app"
   - "Guest House Management System"
 fun_fact: "Spends as much time debugging GRUB as writing code"
