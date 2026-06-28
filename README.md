@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:2b0a4e,100:7b2ff7&text=Torika&fontSize=50&fontColor=e0c3fc&animation=twinkling&fontAlignY=38&desc=Falling%20into%20code%2C%20one%20repo%20at%20a%20time&descAlignY=58&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=600&lines=Welcome+to+the+event+horizon...;Networking+%7C+Databases+%7C+App+Dev;Building+things+that+don't+collapse+(usually)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=600&lines=Welcome+to+Torika+page...;App+Dev;Building+things+that+don't+collapse+(usually)" alt="Typing SVG" />
 
 <a href="https://komarev.com/ghpvc/?username=ArimoshitoTorika">
   <img src="https://komarev.com/ghpvc/?username=ArimoshitoTorika&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="ArimoshitoTorika's profile views" />
