@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:2b0a4e,100:7b2ff7&text=Torika&fontSize=50&fontColor=e0c3fc&animation=twinkling&fontAlignY=38&desc=Falling%20into%20code%2C%20one%20repo%20at%20a%20time&descAlignY=58&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=600&lines=Welcome+to+Torika+page...;App+Dev;Building+things+that+don't+collapse+(usually)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=600&lines=Welcome+to+Torika+page...;Mobile App+UX/UI+Desktop App;Building+things+that+don't+collapse+(usually)" alt="Typing SVG" />
 
 <a href="https://komarev.com/ghpvc/?username=ArimoshitoTorika">
   <img src="https://komarev.com/ghpvc/?username=ArimoshitoTorika&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="ArimoshitoTorika's profile views" />
@@ -39,8 +39,6 @@ fun_fact: "Spends as much time debugging GRUB as writing code"
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArimoshitoTorika&cache_seconds=7200&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&icon_color=9d4edd&text_color=e0c3fc&border_radius=12" alt="ArimoshitoTorika's GitHub Stats" />
 <img height="180em" src="https://streak-stats.demolab.com/?user=ArimoshitoTorika&theme=radical&hide_border=true&background=0D0221&ring=9D4EDD&fire=B388FF&currStreakLabel=E0C3FC&sideLabels=E0C3FC&dates=7b2ff7" alt="ArimoshitoTorika's GitHub Streak" />
-
-<img src="https://trophy.ryglcloud.net/?username=ArimoshitoTorika&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Torika's GitHub Trophies" />
 
 </div>
 
