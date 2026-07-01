@@ -19,7 +19,8 @@
 </div>
 
 ```yaml
-name: Torika
+name: Sorn Sopanha
+nickname: Torika
 role: Developer
 focus:
   - Database Systems (MySQL, MongoDB, Oracle)
