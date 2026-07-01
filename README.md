@@ -26,8 +26,8 @@ focus:
   - Desktop App & Mobile Development (Java, Flutter)
   - Linux Systems & Dual-Boot Sorcery
 currently_building:
-  - "Flutter music app"
-  - "Guest House Management System"
+  - "Music App - Flutter (Clone Spotify)"
+  - "Coffee App -Flutter"
 fun_fact: "Spends as much time debugging GRUB as writing code"
 ```
 
