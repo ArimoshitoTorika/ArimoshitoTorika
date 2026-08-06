@@ -4,7 +4,7 @@
 
 <img src="https://em-content.zobj.net/source/apple/391/waving-hand_1f44b.png" width="60" />
 
-<h1>Hi, I'm Torika 👋</h1>
+<h1>Hi, I'm Torika - Сопанъа</h1>
 
 <p><i>Software & Systems Student · Building things that (usually) don't collapse</i></p>
 
