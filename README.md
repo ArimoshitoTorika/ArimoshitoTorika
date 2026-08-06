@@ -44,7 +44,7 @@ Building   Music App (Flutter) · Coffee Ordering App (Flutter)
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArimoshitoTorika&hide_border=true&count_private=true&bg_color=10002B&title_color=E0AAFF&icon_color=C77DFF&text_color=9D4EDD&border_radius=14" alt="Torika's GitHub Stats" />
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArimoshitoTorika&layout=compact&hide_border=true&bg_color=10002B&title_color=E0AAFF&text_color=9D4EDD&border_radius=14" alt="Top Languages" />
 <br>
-<img src="https://streak-stats.demolab.com/?user=ArimoshitoTorika&hide_border=true&background=10002B&ring=9D4EDD&fire=C77DFF&currStreakLabel=E0AAFF&sideLabels=C77DFF&dates=9D4EDD&border_radius=14" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=ArimoshitoTorika&hide_border=true&background=10002B&ring=9D4EDD&fire=C77DFF&currStreakLabel=E0AAFF&sideNums=CC00CC&currStreakNum=CC00CC&sideLabels=C77DFF&dates=9D4EDD&border_radius=14" alt="GitHub Streak" width="70%"/>
 </div>
 <br>
 
