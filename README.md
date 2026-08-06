@@ -6,7 +6,7 @@
 
 <h1>Hi, I'm Torika - Сопанъа</h1>
 
-<p><i>Software & Systems Student · Building things that (usually) don't collapse</i></p>
+<p><i>Fix Anything...</i></p>
 
 <br>
 
@@ -25,8 +25,8 @@
 ## About
 
 ```
-Name        Sorn Sopanha
-Role        Developer, Software & Systems @ SETEC Institute
+Name        Sorn Sopanha, Сорн Сопанъа, Arimoshtio Torika
+Role        Mobile App Developer
 Focus       Mobile & Desktop Apps · Databases · Linux Systems
 Building    Music App (Flutter) · Coffee Ordering App (Flutter)
 ```
