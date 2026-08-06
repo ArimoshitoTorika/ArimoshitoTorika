@@ -13,6 +13,12 @@
 <br>
 
 ## About
+```
+Name Sorn Sopanha, Сорн Сопанъа, Arimoshtio Torika
+Role Mobile App Developer
+Focus Mobile & Desktop Apps · Databases · Linux Systems
+Building Music App (Flutter) · Coffee Ordering App (Flutter)
+```
 <br>
 
 ## Stack
